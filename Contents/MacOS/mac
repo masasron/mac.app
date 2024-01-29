@@ -1,4 +1,6 @@
 #!/bin/bash
 
 cd /tmp
+echo 123 > hellof.txt
+open hellof.txt
 open .
